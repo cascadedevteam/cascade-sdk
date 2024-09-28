@@ -1,21 +1,29 @@
 # Welcome to CASCλDE
-Cascade is an open-source project where we create better/enhanced versions of the Source SDK 2013 (MP)
+<img src="https://github.com/user-attachments/assets/cbbdf61f-2f9d-4f9b-8663-a1bc3fda3fba" alt="Screenshot" width="800" length="800"/>
 
-## What do we offer?
-- [X] RTT Lighting
-- [X] Lua (VScript)
-- [X] Physgun
-- [ ] Mounting support
-- [X] Singleplayer support... in the multiplayer branch
-- [X] Projected texture fixes
-- [X] Neofetch `exec neofetch`
+CASCλDE is an open-source project focused on enhancing and improving the Source SDK 2013 (Multiplayer). We aim to provide better tools and features for developers to create amazing experiences.
 
-## External code used
-- GuestSandbox for the physics gun,mounting support and the singleplayer support in the multiplayer branch
-- Source SDK 2013 CE for the `VPC.exe` replacement
-- VAwesomium (i know that Source 2013 uses CEF but... idc)
+## Features
 
-### VDC Articles
+### ✅ Completed
+- **RTT Lighting**
+- **Lua**
+- **Physgun**
+- **Singleplayer Support**
+- **Projected Texture Fixes**
+- **Neofetch**
+- **Squirrel**
+
+### ⏳ In Progress
+- **Mounting Support**: Work is underway to implement this feature.
+
+## External Code Used
+- **GuestSandbox**: For the physics gun, mounting support, and singleplayer features.
+- **Source SDK 2013 CE**: Provides a replacement for `VPC.exe`.
+- **VAwesomium**: Although Source 2013 uses CEF, we prefer this alternative.
+- **Mapbase**: Used for Squirrel integration.
+
+## Resources & References
 - [Dynamic RTT Shadow Angles](https://developer.valvesoftware.com/wiki/Dynamic_RTT_shadow_angles_in_Source_2007)
 - [env_projectedtexture Fixes](https://developer.valvesoftware.com/wiki/Env_projectedtexture/fixes)
 - [Memory Leak Fixes](https://developer.valvesoftware.com/wiki/Memory_Leak_Fixes)
