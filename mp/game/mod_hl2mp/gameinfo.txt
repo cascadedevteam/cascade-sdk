@@ -61,6 +61,8 @@
 			game_lv				hl2/hl2_lv.vpk
 			game+mod			hl2mp/hl2mp_english.vpk
 			game+mod			hl2mp/hl2mp_pak.vpk
+			game+mod+addon			cascade/vpks
+			game+mod+addon			hl2mp/vpks
 			game				|all_source_engine_paths|hl2/hl2_english.vpk
 			game				|all_source_engine_paths|hl2/hl2_pak.vpk
 			game				|all_source_engine_paths|hl2/hl2_textures.vpk
