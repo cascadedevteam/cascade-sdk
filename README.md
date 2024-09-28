@@ -13,6 +13,7 @@ CASCλDE is an open-source project focused on enhancing and improving the Source
 - **Projected Texture Fixes**
 - **Neofetch**
 - **Squirrel**
+- **VS2022 Support**
 
 ### ⏳ In Progress
 - **Mounting Support**: Work is underway to implement this feature.
