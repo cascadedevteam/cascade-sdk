@@ -6,13 +6,13 @@ CASCλDE is an open-source project focused on enhancing and improving the Source
 ## Features
 
 ### ✅ Completed
-- **RTT Lighting**: Advanced real-time texture mapping.
-- **Lua (VScript)**: Scripting support to enhance game logic.
-- **Physgun**: Physics-based gun for manipulating objects.
-- **Singleplayer Support**: Enjoy singleplayer gameplay in the multiplayer branch.
-- **Projected Texture Fixes**: Improved functionality for projected textures.
-- **Neofetch**: Run `exec neofetch` for a system overview.
-- **Squirrel**: Added support for Squirrel scripting.
+- **RTT Lighting**
+- **Lua**
+- **Physgun**
+- **Singleplayer Support**
+- **Projected Texture Fixes**
+- **Neofetch**
+- **Squirrel**
 
 ### ⏳ In Progress
 - **Mounting Support**: Work is underway to implement this feature.
