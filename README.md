@@ -7,16 +7,17 @@ CASCλDE is an open-source project focused on enhancing and improving the Source
 
 ### ✅ Completed
 - **RTT Lighting**
-- **Lua**
 - **Physgun**
 - **Singleplayer Support**
 - **Projected Texture Fixes**
 - **Neofetch**
-- **Squirrel**
 - **VS2022 Support**
 
 ### ⏳ In Progress
 - **Mounting Support**: Work is underway to implement this feature.
+- **Squirrel**
+- **Lua**
+
 
 ## External Code Used
 - **GuestSandbox**: For the physics gun, mounting support, and singleplayer features.
