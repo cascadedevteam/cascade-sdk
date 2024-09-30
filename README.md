@@ -23,7 +23,7 @@ CASCλDE is an open-source project focused on enhancing and improving the Source
 - **GuestSandbox**: For the physics gun, mounting support, and singleplayer features.
 - **Source SDK 2013 CE**: Provides a replacement for `VPC.exe`.
 - **VAwesomium**: Although Source 2013 uses CEF, we prefer this alternative.
-- **Mapbase**: Used for Squirrel integration.
+- **LuaJit** : For the native lua support
 
 ## Resources & References
 - [Dynamic RTT Shadow Angles](https://developer.valvesoftware.com/wiki/Dynamic_RTT_shadow_angles_in_Source_2007)
