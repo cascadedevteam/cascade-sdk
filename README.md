@@ -12,15 +12,15 @@ CASCλDE is an open-source project focused on enhancing and improving the Source
 - **Projected Texture Fixes**
 - **Neofetch**
 - **VS2022 Support**
+- **Mounting Support**
 
 ### ⏳ In Progress
-- **Mounting Support**: Work is underway to implement this feature.
 - **Squirrel**
 - **Lua**
 
 
 ## External Code Used
-- **GuestSandbox**: For the physics gun, mounting support, and singleplayer features.
+- **Combine Sandbox**: For the physics gun, mounting support, and singleplayer features.
 - **Source SDK 2013 CE**: Provides a replacement for `VPC.exe`.
 - **VAwesomium**: Although Source 2013 uses CEF, we prefer this alternative.
 - **Mapbase**: Used for Squirrel integration.
