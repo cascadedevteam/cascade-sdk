@@ -24,6 +24,7 @@ CASCλDE is an open-source project focused on enhancing and improving the Source
 - **Source SDK 2013 CE**: Provides a replacement for `VPC.exe`.
 - **VAwesomium**: Although Source 2013 uses CEF, we prefer this alternative.
 - **Mapbase**: Used for Squirrel integration.
+- **Imgui** (From Strata-Source) : Used as a replacement for VGUI
 
 ## Resources & References
 - [Dynamic RTT Shadow Angles](https://developer.valvesoftware.com/wiki/Dynamic_RTT_shadow_angles_in_Source_2007)
